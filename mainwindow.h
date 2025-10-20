@@ -18,7 +18,7 @@ private slots:
 
 private:
     DrawingCanvas *m_canvas;
-    QPushButton *m_clearButton, *m_drawButton, *m_detectButton;
+    QPushButton *m_clearButton, *m_drawButton, *m_detectButton, *m_scanButton;
 };
 
 
